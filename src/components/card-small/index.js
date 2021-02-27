@@ -1,5 +1,5 @@
 import React from 'react'
-import './card-small.css'
+import './index.css'
 
 export default function CardSmall({ growth, pageViews, icon }) {
   return (
